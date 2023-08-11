@@ -1,5 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
+#include <studio.h>
+
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
@@ -23,5 +25,5 @@ if (n == 0)
 {
 printf("%d is zero\n", n);
 }
-	return (0);
+return (0);
 }
